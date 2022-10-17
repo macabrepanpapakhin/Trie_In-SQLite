@@ -26,7 +26,7 @@ Character are connected via ID.
 
 1. You can add word dynamically without have to worry about which row to put.
 
-2. Search is fast since it's costs Only O(52*k), where k is the word you want to add.
+2. Search is fast since it's costs Only O(52*k), where k is the word you want to find.
 
 <img width="1440" alt="Table Output" src="https://user-images.githubusercontent.com/54890279/196045360-237be792-80ce-482d-b894-99671fc1d637.png">
 
